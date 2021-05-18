@@ -102,6 +102,10 @@ img {
   .navegation li {
     margin: 2px auto;
   }
+
+  .bag {
+    justify-self: center;
+  }
 }
 
 @media (max-width: 1250px) {
